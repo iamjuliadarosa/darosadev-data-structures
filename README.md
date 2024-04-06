@@ -4,8 +4,8 @@ This repository contains the roadmap and resources to comprehend data structures
 
 ## Topics
 
-1. [Arrays](Arrays)
-2. [List](List)
+1. [Arrays]()
+2. [List]()
 3. [Singly-Linked List]()
 4. [Doubly-Linked List]()
 5. [Circular List]()
