@@ -1,6 +1,6 @@
 # Data Structures
 
-This repository contains the roadmap and resources to comprehend data structures.
+I am Julia, I am a computer science student. This repository contains the roadmap and resources to comprehend data structures.
 
 ## Topics
 
