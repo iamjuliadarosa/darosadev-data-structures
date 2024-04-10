@@ -1,6 +1,6 @@
 This repo is in construction, still feels a bit empty here.
 
-![<p><a href="https://giphy.com/gifs/season-6-the-simpsons-6x18-xT5LMBIW4I7671tqX6">via GIPHY</a></p>](https://github.com/iamjuliadarosa/darosadev-data-structures/assets/42720198/0ad6e3c1-f8ae-41ee-81d9-0594f52a87bb)
+![<p><a href="https://giphy.com/gifs/season-6-the-simpsons-6x18-xT5LMBIW4I7671tqX6">via GIPHY</a></p>](assets\images\giphy.gif)
 
 # Data Structures
 
