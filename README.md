@@ -1,29 +1,26 @@
+This repo is in construction, still feels a bit empty here.
+<iframe src="https://giphy.com/embed/xT5LMBIW4I7671tqX6" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-6-the-simpsons-6x18-xT5LMBIW4I7671tqX6">via GIPHY</a></p>
 # Data Structures
 
 I am Julia, I am a computer science student. This repository contains the roadmap and resources to comprehend data structures.
 
 ## Topics
 1. **Introduction to Data Structures**
-   - What are data structures?
-   - Why are they important in programming?
-   - Algorithm complexity and data structures.
+   1. What are data structures?
+   2. Why are they important in programming?
+   3. Algorithm complexity and data structures.
+   4. Basic Data Types
+      - Numeric Data Types
+      - Text Data Types
+      - Boolean Data Types
 
-2. **Basic Data Types**
-   - Integers
-   - Floating-point numbers
-   - Characters
-   - Booleans
-   - Strings
-
-3. **Basic Data Structures**
-   - [Arrays](#Arrays)
-   - [Linked Lists](#Linked-Lists)
+2. **Basic Data Structures**
+   - [Arrays](basic-data-structures\arrays\intro.md)
+   - [Lists](basic-data-structures\lists\intro.md)
    - Stacks
    - Queues
-   - Priority Queues
-   - Sets
 
-4. **Advanced Data Structures**
+3. **Advanced Data Structures**
    - Trees
      - Binary Trees
      - Binary Search Trees (BST)
@@ -44,36 +41,28 @@ I am Julia, I am a computer science student. This repository contains the roadma
      - Hash Maps
      - Hash Sets
 
-5. **Operations and Algorithms with Data Structures**
+4. **Operations and Algorithms with Data Structures**
    - Insertion, Deletion, and Search
    - Sorting and Searching
    - Tree and Graph Traversals
    - Stack and Queue Manipulations
    - Using Data Structures in Practical Problems
 
-6. **Implementation of Data Structures**
+5. **Implementation of Data Structures**
    - Linked List Implementation
    - Stack and Queue Implementation
    - Tree and Graph Implementation
    - Hash Table Implementation
 
-7. **Usage of Data Structures in Programming Languages**
+6. **Usage of Data Structures in Programming Languages**
    - Standard Libraries for Data Structures
    - Using Data Structures in C# and Python.
 
-8. **Best Practices and Performance Considerations**
+7. **Best Practices and Performance Considerations**
    - Choosing the Right Data Structure
    - Time and Space Complexity
    - Performance Optimization
 
-9. **Conclusion**
+8. **Conclusion**
    - Recap of Covered Data Structures
    - Next Steps in Learning Data Structures
-
-### Arrays
-
-Array is a linear type data structure that can operate without a specific data type in its indices. This data structure works as a single object that, throught its indices, points to its set components.
-
-### Linked List
-
-Lists are a linear type data structure that depend on a commom data type in its set components. This data structure works as a collection of objects that, through its iteration or indices, points to its set components.
