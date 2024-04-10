@@ -1,5 +1,7 @@
 This repo is in construction, still feels a bit empty here.
-<iframe src="https://giphy.com/embed/xT5LMBIW4I7671tqX6" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-6-the-simpsons-6x18-xT5LMBIW4I7671tqX6">via GIPHY</a></p>
+
+![<p><a href="https://giphy.com/gifs/season-6-the-simpsons-6x18-xT5LMBIW4I7671tqX6">via GIPHY</a></p>](https://github.com/iamjuliadarosa/darosadev-data-structures/assets/42720198/0ad6e3c1-f8ae-41ee-81d9-0594f52a87bb)
+
 # Data Structures
 
 I am Julia, I am a computer science student. This repository contains the roadmap and resources to comprehend data structures.
